@@ -1,2 +1,6 @@
 Veersion  : 1.0 Stable 
 Login     : Bug Fixed
+           Login Bug Fixed
+           Security Patch Applied
+UI        : Dashboard Added (v1.1)
+
