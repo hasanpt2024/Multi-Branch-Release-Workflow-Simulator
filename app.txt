@@ -1,6 +1,12 @@
 Veersion  : 1.0 Stable 
+<<<<<<< HEAD
 Login     : Bug Fixed
            Login Bug Fixed
            Security Patch Applied
 UI        : Dashboard Added (v1.1)
 
+=======
+Security  : Patch Applied 
+
+Satatus   : Sysytem Stable And Ready. 
+>>>>>>> hotfix-security
